@@ -1,4 +1,4 @@
-  <h2>Cybersecurity SOAR and EDR Project</h2>
+  <h2>SOAR and EDR Project</h2>
 </div>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/47262f6f-ec0f-4c38-b5be-5477ae88832c" alt="Description" width="500">
